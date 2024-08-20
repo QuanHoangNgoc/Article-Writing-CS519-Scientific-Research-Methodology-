@@ -39,6 +39,11 @@ This project is used by the following users:
 Academic Writing, Reading Paper, Literature Review, Mind Map Survey, Critical Thinking for find ideas and how should write?
 
 
+## Acknowledgements
+
+ - I would like to express my deepest gratitude to [Chi Nguyen](https://youtu.be/McsdCuaP7L0?si=pV67Q9oT2xmwYndA)
+ for their invaluable video and guidance throughout this project.
+
 
 ## Feedback
 
