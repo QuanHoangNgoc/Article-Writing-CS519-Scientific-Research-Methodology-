@@ -41,7 +41,7 @@ Academic Writing, Reading Paper, Literature Review, Mind Map Survey, Critical Th
 
 ## Acknowledgements
 
-I would like to express my deepest gratitude to [Chi Nguyen](https://youtu.be/McsdCuaP7L0?si=pV67Q9oT2xmwYndA)
+I would like to express my deepest gratitude to **[Chi Nguyen](https://youtu.be/McsdCuaP7L0?si=pV67Q9oT2xmwYndA)**
  for their invaluable video and guidance throughout this project.
 
 
