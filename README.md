@@ -16,11 +16,11 @@ This project is used by the following users:
 
 ## Screenshots
 
-![Poster](https://github.com/QuanHoangNgoc/CS519.O21.KHTN/blob/main/Poster.pdf)
+[Poster](https://github.com/QuanHoangNgoc/CS519.O21.KHTN/blob/main/Poster.pdf)
 
 
 ## Demo
-- Youtube link: **[pitching_video](https://youtu.be/wCOo6yuM6F8?si=ygleoJFrZY7qekCK)**
+- Youtube link: ***[pitching_video](https://youtu.be/wCOo6yuM6F8?si=ygleoJFrZY7qekCK)***
 ## Roadmap
 
 - **Writing an English Proposal:** We draft the proposal using Google Docs, with support from Grammarly for grammar checks and the Sider-GPT chatbot for writing assistance.
