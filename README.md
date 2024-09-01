@@ -10,8 +10,8 @@
 ## Used By
 
 This project is used by the following users: 
-- Students in university are finding idea or learn about acadamic research. 
-- Organizations are finding some potential project to invest.
+- Students in university are finding ideas or learning about academic research. 
+- Organizations are finding some potential projects to invest in.
 
 
 ## Screenshots
