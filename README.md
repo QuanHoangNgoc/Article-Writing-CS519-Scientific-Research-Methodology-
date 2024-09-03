@@ -42,7 +42,7 @@ Academic Writing, Reading Paper, Literature Review, Mind Map Survey, Critical Th
 ## Acknowledgements
 
 I would like to express my deepest gratitude to **[Chi Nguyen](https://youtu.be/McsdCuaP7L0?si=pV67Q9oT2xmwYndA)**
- for their invaluable video and guidance throughout this project.
+Thank you for your invaluable video and guidance throughout this project.
 
 
 ## Feedback
@@ -54,7 +54,5 @@ If you have any feedback, please reach out to us at 22521178@gm.uit.edu.vn
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
-
-![Logo](https://scontent.fdad2-1.fna.fbcdn.net/v/t39.30808-6/413843529_1740701689783624_8092325184717617985_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=xbc3nv6ryCEQ7kNvgFXOqM-&_nc_ht=scontent.fdad2-1.fna&oh=00_AYBUpntyFu6CtHY3dNMS4jjOeKQHJVBIANxwTvDcsOyC6w&oe=66C9D8C9)
-
+<img src="https://scontent.fdad2-1.fna.fbcdn.net/v/t39.30808-6/413843529_1740701689783624_8092325184717617985_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=xbc3nv6ryCEQ7kNvgFXOqM-&_nc_ht=scontent.fdad2-1.fna&oh=00_AYBUpntyFu6CtHY3dNMS4jjOeKQHJVBIANxwTvDcsOyC6w&oe=66C9D8C9" alt="logo" width="400"/>
 
